@@ -1,0 +1,31 @@
+ #login h2{
+  text-align: center;
+  color: blue;
+ }
+
+ #login {
+  display: flex;
+  height: 700px;
+  align-items: center;
+  
+ }
+
+ #Header {
+    background: blue;
+ }
+ #Header h2{
+    color: aliceblue;
+     
+ }
+ #Header button{
+    float: right;
+    margin:10px 0px;
+ }
+
+ #Footer {
+background: blue;
+ }
+ #Footer h2{
+    color: aliceblue;
+    text-align: center;
+ }
